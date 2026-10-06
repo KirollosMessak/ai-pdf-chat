@@ -1,10 +1,10 @@
 # 📄 Chat with your PDFs: AI Document Assistant
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-pdf-chat1.streamlit.app/)
+
 Upload PDFs (contracts, policies, manuals, reports) and ask questions in plain language. Answers come back **with page citations**, so you can check every claim against the source.
 
-> **Live demo:** _add your Streamlit Cloud link here_
->
-> ![Demo](docs/demo.gif) <!-- record a short GIF and save it as docs/demo.gif -->
+> **🚀 Live demo:** https://ai-pdf-chat1.streamlit.app/ (bring your own Anthropic API key, then try it with [`sample/company_policy.pdf`](sample/company_policy.pdf))
 
 ## The problem it solves
 
